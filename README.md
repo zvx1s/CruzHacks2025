@@ -18,7 +18,7 @@
 
 ## Demo 🎬
 
-*<img width="524" height="646" alt="Screenshot 2025-10-04 at 2 27 00 PM" src="https://github.com/user-attachments/assets/0b298d74-7d65-4513-b9ac-0d0da593557b" />*
+*<img width="524" height="646" alt="Screenshot 2025-10-04 at 2 27 00 PM" src="https://github.com/user-attachments/assets/0b298d74-7d65-4513-b9ac-0d0da593557b" />* *<img width="1792" height="1032" alt="image" src="https://github.com/user-attachments/assets/b4a193e0-1038-407f-b870-0a27c98a6131" />*
 
 
 ---
